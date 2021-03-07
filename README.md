@@ -1,7 +1,8 @@
 # tweet_analysis
 Tweet Analysis Using Twitter's APIs
 
-Performed Exploratory Data Analysis on several high-profile public figures’ tweets from Twitter’s APIs.
+Performed Exploratory Data Analysis on several high-profile public figures’ tweets from Twitter’s APIs.  
+
 Public Figures:
 - Alexandria Ocasio Cortez @aoc
 - Elon Musk @elonmusk
