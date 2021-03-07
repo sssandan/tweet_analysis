@@ -3,12 +3,15 @@ Tweet Analysis Using Twitter's APIs
 
 Performed Exploratory Data Analysis on several high-profile public figures’ tweets from Twitter’s APIs.
 Public Figures:
-- Alexandria Ocasio Cortez (AOC) @aoc
+- Alexandria Ocasio Cortez @aoc
 - Elon Musk @elonmusk
 - Cristiano Ronaldo @cristiano
 
 Tools & Libraries used:
-- Jupyter Notebook, Python, Pandas, matplotlib, seaborn, numpy, regular expressions
+- jupyter notebook, python 3, pandas, matplotlib, seaborn, numpy, regular expressions
+
+Data Science skills used:
+- Data Manipulation, Data Cleaning, Data Visualization, etc
 
 Some Findings include: 
 - top 10 most frequent hashtags/mentions
