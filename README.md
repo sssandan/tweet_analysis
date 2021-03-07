@@ -13,12 +13,6 @@ Tools & Libraries used:
 Some Findings include: 
 - top 10 most frequent hashtags/mentions
 - distribution of tweets by time of day
-- sentiment polarity (VADER lexicon) scores of tweets in relation to user mentions 
+- sentiment polarity (VADER lexicon) scores of tweets in relation to user mentions
 
-<ins>Introduction</ins>
-
-Analysis
-
-Graphs/Data/Plots
-
-Conclusion
+Please check out the ipynb file to see a detailed report of my project! :D
