@@ -23,3 +23,6 @@ Some Findings include:
 - sentiment polarity (VADER lexicon) scores of tweets in relation to user mentions
 
 Please check out the ipynb file to see a detailed report of my project! :D
+
+- will add bokeh graphs to make it more interactive with users
+- perform more EDA on mentions
