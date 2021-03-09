@@ -23,3 +23,5 @@ Some Findings include:
 - sentiment polarity (VADER lexicon) scores of tweets in relation to user mentions
 
 Please check out the ipynb file to see a detailed report of my project! :D
+
+https://mybinder.org/v2/gh/https%3A%2F%2Fdata100.datahub.berkeley.edu%2Fuser%2Frsandan%2Fnotebooks%2Fsp21%2Fhw%2Fhw4%2Fhw4.ipynb/HEAD
