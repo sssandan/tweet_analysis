@@ -2,7 +2,10 @@
 Tweet Analysis Using Twitter's APIs
 
 Performed Exploratory Data Analysis on several high-profile public figures’ tweets from Twitter’s APIs.  
+Please visit this website to see an interactive version of my work!
+https://nbviewer.jupyter.org/github/sssandan/tweet_analysis/blob/main/tweet_analysis.ipynb
 
+Hope that clear things up!
 Public Figures:
 - Alexandria Ocasio Cortez @aoc (politician from the bronx!)
 - Bernie Sanders @berniesanders (politician)
